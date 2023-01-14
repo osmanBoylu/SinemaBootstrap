@@ -1,0 +1,19 @@
+Anasayfa
+
+Filmler
+--Filmler listelenir kartlar halinde.
+
+Kategoriler
+--Kategoriler kartlar halinde listelenir.
+
+Salonlar
+
+Saatler
+
+Tiyatrolar
+
+
+1. Esaretin Bedeli
+2. Baba
+3.
+4.
